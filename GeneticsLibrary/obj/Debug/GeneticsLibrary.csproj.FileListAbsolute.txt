@@ -1,0 +1,11 @@
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsLibrary\bin\Debug\GeneticsLibrary.dll
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsLibrary\bin\Debug\GeneticsLibrary.pdb
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsLibrary\obj\Debug\GeneticsLibrary.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsLibrary\obj\Debug\GeneticsLibrary.dll
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsLibrary\obj\Debug\GeneticsLibrary.pdb
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsLibrary\bin\Debug\GeneticsLibrary.dll
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsLibrary\bin\Debug\GeneticsLibrary.pdb
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsLibrary\obj\Debug\GeneticsLibrary.csproj.AssemblyReference.cache
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsLibrary\obj\Debug\GeneticsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsLibrary\obj\Debug\GeneticsLibrary.dll
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsLibrary\obj\Debug\GeneticsLibrary.pdb

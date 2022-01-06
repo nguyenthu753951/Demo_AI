@@ -1,0 +1,26 @@
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\bin\Debug\GeneticsDevTwo.exe
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\bin\Debug\GeneticsDevTwo.pdb
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\bin\Debug\BoardControl.dll
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\bin\Debug\GeneticsLibrary.dll
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\bin\Debug\BoardControl.pdb
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\bin\Debug\GeneticsLibrary.pdb
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\obj\Debug\GeneticsDevTwo.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\obj\Debug\GeneticsDevTwo.Form1.resources
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\obj\Debug\GeneticsDevTwo.GeneticsBoard.resources
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\obj\Debug\GeneticsDevTwo.csproj.GenerateResource.Cache
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\obj\Debug\GeneticsDevTwo.exe
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\obj\Debug\GeneticsDevTwo.pdb
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\bin\Debug\GeneticsDevTwo.exe
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\bin\Debug\GeneticsDevTwo.pdb
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\bin\Debug\BoardControl.dll
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\bin\Debug\GeneticsLibrary.dll
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\bin\Debug\BoardControl.pdb
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\bin\Debug\GeneticsLibrary.pdb
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\obj\Debug\GeneticsDevTwo.csproj.AssemblyReference.cache
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\obj\Debug\GeneticsDevTwo.Form1.resources
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\obj\Debug\GeneticsDevTwo.GeneticsBoard.resources
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\obj\Debug\GeneticsDevTwo.csproj.GenerateResource.cache
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\obj\Debug\GeneticsDevTwo.csproj.CoreCompileInputs.cache
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\obj\Debug\GeneticsDevTwo.csproj.CopyComplete
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\obj\Debug\GeneticsDevTwo.exe
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\GeneticsDevTwo\GeneticsDevTwo\obj\Debug\GeneticsDevTwo.pdb

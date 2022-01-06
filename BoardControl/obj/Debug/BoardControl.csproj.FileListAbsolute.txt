@@ -1,0 +1,17 @@
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\BoardControl\bin\Debug\BoardControl.dll
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\BoardControl\bin\Debug\BoardControl.pdb
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\BoardControl\obj\Debug\BoardControl.csprojResolveAssemblyReference.cache
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\BoardControl\obj\Debug\BoardControl.Board.resources
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\BoardControl\obj\Debug\BoardControl.ConnectFourBoard.resources
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\BoardControl\obj\Debug\BoardControl.csproj.GenerateResource.Cache
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\BoardControl\obj\Debug\BoardControl.dll
+C:\Users\NGUYEN VIET CHIEN\Desktop\GeneticsDevTwo\BoardControl\obj\Debug\BoardControl.pdb
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\BoardControl\bin\Debug\BoardControl.dll
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\BoardControl\bin\Debug\BoardControl.pdb
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\BoardControl\obj\Debug\BoardControl.csproj.AssemblyReference.cache
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\BoardControl\obj\Debug\BoardControl.Board.resources
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\BoardControl\obj\Debug\BoardControl.ConnectFourBoard.resources
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\BoardControl\obj\Debug\BoardControl.csproj.GenerateResource.cache
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\BoardControl\obj\Debug\BoardControl.csproj.CoreCompileInputs.cache
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\BoardControl\obj\Debug\BoardControl.dll
+C:\Users\nobod\Downloads\Genetics Algorithm\GeneticsDevTwo\BoardControl\obj\Debug\BoardControl.pdb
